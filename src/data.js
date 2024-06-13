@@ -25,7 +25,7 @@ const reviews = [
     name: "Mohit Ginglani",
     job: "Data Analyst",
     image:"https://i.imgur.com/ICkzxGk.jpeg",
-    text: "Meet our Data Analyst, Mohit , who transforms complex data into actionable insights for [Company]. Their analytical expertise helps drive informed decision-making and strategic planning, ensuring we achieve remarkable outcomes.",
+    text: "Meet our Data Analyst, Mohit , who transforms complex data into actionable insights . Their analytical expertise helps drive informed decision-making and strategic planning, ensuring we achieve remarkable outcomes.",
   },
   {
     id: 5,
